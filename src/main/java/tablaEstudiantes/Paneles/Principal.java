@@ -117,7 +117,6 @@ public class Principal extends JFrame {
 
 	private void save() {
 		ControladorEstudiante ce = new ControladorEstudiante();
-		int fila = this.table.getSelectedRow();
 		ce.update(Integer.parseInt(this.panelDatos.getId()),this.panelDatos.getNombre(), this.panelDatos.getApellido1(),
 				this.panelDatos.getApellido2(), this.panelDatos.getDNI(), this.panelDatos.getDireccion(), this.panelDatos.getEmail(),
 				this.panelDatos.getTelefono());
