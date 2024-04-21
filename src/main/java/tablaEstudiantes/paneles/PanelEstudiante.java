@@ -1,4 +1,4 @@
-package tablaEstudiantes.Paneles;
+package tablaEstudiantes.paneles;
 
 import javax.swing.JPanel;
 import java.awt.BorderLayout;

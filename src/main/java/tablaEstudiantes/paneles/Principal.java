@@ -1,4 +1,4 @@
-package tablaEstudiantes.Paneles;
+package tablaEstudiantes.paneles;
 
 import java.awt.EventQueue;
 import java.awt.event.MouseListener;
